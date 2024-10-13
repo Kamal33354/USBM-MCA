@@ -1,4 +1,4 @@
 # USBM-MCA
 
-Full Stack Web Developmenet
+Full Stack Web Development
 =======
